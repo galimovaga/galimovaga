@@ -10,4 +10,4 @@ Python · pandas · NumPy · scikit-learn · statsmodels · Matplotlib · Seabor
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/your-profile) · galimova.gaa@gmail.com
+[LinkedIn](https://www.linkedin.com/in/your-profile) · galimova.gaa@gmail.com · https://galimovaga.github.io/en_portfolio/
