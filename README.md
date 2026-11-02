@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Galiya ✨
 
-<!--
-**galimovaga/galimovaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Tennis analyst** based in Yerevan, Armenia · open to remote work and relocation
 
-Here are some ideas to get you started:
+I completed a Sports Performance Analytics specialization from the University of Michigan. I collaborate with a national-level coach in Armenia, delivering performance analytics for junior players — point-by-point match charting, serve and return analysis, opponent scouting. I analyze ATP and WTA match data to explain what drives results: serve and return efficiency, tactical patterns and shot-making. Also I'm an active volunteer contributor to the Match Charting Project. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools
+
+Python · pandas · NumPy · scikit-learn · statsmodels · Matplotlib · Seaborn · Jupyter Notebook · SQL · Tableau
+
+### Contact
+
+[LinkedIn](https://www.linkedin.com/in/your-profile) · galimova.gaa@gmail.com
